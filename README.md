@@ -48,7 +48,7 @@ My academic foundation is solid — but my real learning happens through **AI ex
 
 ### Connect
 
-[YouTube](https://www.youtube.com/@vibestudentai) • [Instagram](https://www.instagram.com/vibestudent.ai/) • [GitHub](https://github.com/vibestudent)
+[Instagram](https://www.instagram.com/vibestudent.ai/) • [YouTube](https://www.youtube.com/@vibestudentai) • [GitHub](https://github.com/vibestudent)
 
 ---
 
