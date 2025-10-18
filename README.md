@@ -22,9 +22,9 @@ Every project here is an **AI-generated prototype** — built through conversati
 They’re educational, experimental, and sometimes imperfect — but they all explore what’s possible when humans and AI build together.  
 
 **Highlights:**
-- PopupKit – UI built entirely with v0 by Vercel  
-- C-to-Assembly Transpiler – built with VS Code Copilot Agent  
-- React Calculator App – a full AI-generated frontend project  
+- [PopupKit](https://github.com/vibestudent/popupkit) – UI built entirely with v0 by Vercel  
+- [Copilot Advanced Pong](https://github.com/vibestudent/copilot-advanced-pong) – built with VS Code Copilot Agent
+- [React Calculator App](https://github.com/vibestudent/react-calculator-app) – a full AI-generated frontend project built with v0 by Vercel 
 - Various CLI scripts, prompt frameworks, and terminal automations
 
 > These aren’t about proving I can code — they’re about showing what coding becomes when AI joins the workflow.
