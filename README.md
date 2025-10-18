@@ -29,7 +29,7 @@ This project was built **entirely with generative AI**, including UI, animations
 
 **Try it here:** [VIBEcode on GitHub](https://github.com/vibestudent/vibecode-game)  
 
-![VIBEcode Screenshot](./docs/screenshots/screenshot-1.png)
+![VIBEcode Screenshot](https://github.com/vibestudent/vibecode-game/blob/main/docs/screenshots/screenshot-1.png)
 
 This project embodies my philosophy: *describing, iterating, and orchestrating with AI to build functional, engaging experiences.*
 
