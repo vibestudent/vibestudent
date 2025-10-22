@@ -1,6 +1,7 @@
-# Vibe Student
+# ⚡ Vibe Student
 
-> AI-first prototypes — fast, focused, and functional. Terminal workflows meet agent-led builds.
+> AI-first prototypes — fast, focused, and functional.  
+> Where terminal workflows meet agent-led builds.
 
 <p align="center">
   <img src="https://github.com/vibestudent/vibecode-game/raw/main/docs/screenshots/screenshot-1.png" alt="VIBEcode screenshot" width="440" style="border-radius:10px; box-shadow:0 8px 24px rgba(0,0,0,0.12);">
@@ -8,50 +9,54 @@
 
 ---
 
-## Quick Pitch
-I build **playgrounds for human+AI creativity**. Rather than coding line-by-line, I describe, iterate, and orchestrate using AI agents and terminal-first workflows — prototyping fast and refining smarter.
+## 🧠 Quick Pitch
+I build **playgrounds for human+AI creativity**.  
+Instead of coding line by line, I **describe, iterate, and orchestrate** — using AI agents and terminal-first workflows to **prototype fast** and **refine smarter**.
 
 ---
 
-## Featured Project — [VIBEcode](https://github.com/vibestudent/vibecode-game)
-**VIBEcode** is a fast arcade game where players match **AI-generated code snippets** with their descriptions. The project was **prototyped end-to-end with generative AI**, demonstrating how AI can take ownership of UI, logic, and polish.
+## 🎮 Featured Project — [VIBEcode](https://github.com/vibestudent/vibecode-game)
+**VIBEcode** is an **arcade-style coding game** where players match AI-generated snippets to their meanings.  
+It’s an experiment in **AI-assisted UI + logic design**, built from concept to polish through generative workflows.
 
-**Highlights:**
-- Terminal-style UI with smooth, readable animations  
-- Streak-based scoring and progressive difficulty  
-- Responsive layout with dynamic audio  
+**Highlights**
+- 🖥️ Terminal-inspired UI with smooth animations  
+- ⚡ Streak-based scoring and adaptive difficulty  
+- 🔊 Dynamic audio + responsive layout  
+- 🤖 Fully AI-prototyped, human-refined  
 
-**Try it:** [GitHub: VIBEcode](https://github.com/vibestudent/vibecode-game)
+👉 [Play or explore the code →](https://github.com/vibestudent/vibecode-game)
 
 ---
 
-## Current Experiments
-A curated selection of AI-first prototypes and tools:
+## 🧩 Current Experiments
+Exploring **AI-first workflows** and **agentic development tools**:
 
 - [PopupKit](https://github.com/vibestudent/popupkit) — UI prototyped entirely with **v0 by Vercel**  
-- [Copilot Advanced Pong](https://github.com/vibestudent/copilot-advanced-pong) — built using **VS Code Copilot Agent**  
-- [React Calculator App](https://github.com/vibestudent/react-calculator-app) — frontend prototyped with **v0 by Vercel**  
+- [Copilot Advanced Pong](https://github.com/vibestudent/copilot-advanced-pong) — built using **Copilot Agent** inside VS Code  
+- [React Calculator App](https://github.com/vibestudent/react-calculator-app) — front-end generated with **v0 by Vercel**
 
-These are **learning-first projects** that explore agent-driven development, creative automation, and AI-assisted workflows.
+Each project focuses on **hands-on exploration** — testing how AI can collaborate, automate, and accelerate the dev process.
 
 ---
 
-## Stack & Tools
+## ⚙️ Stack & Tools
 **Languages:** Java • C • C++ • Python • Bash  
 **Tools:** Neovim (LazyVim) • Ghostty • Zsh • Starship • Docker • GitHub Actions  
 **AI Platforms:** Claude • ChatGPT • Copilot Agent • Cursor • v0 by Vercel  
 
 ---
 
-## About Me
-Currently studying **Computer Engineering** at *University POLITEHNICA of Bucharest (2022–2026)*. My focus is on **hands-on experiments, rapid iteration, and exploring new development patterns with AI**.
+## 🎓 About
+I’m currently studying **Computer Engineering** at *University POLITEHNICA of Bucharest (2022–2026)*.  
+My focus: **agentic coding**, **automation pipelines**, and **AI-augmented creativity** — building faster by thinking in workflows, not lines of code.
 
 ---
 
-## Connect
-[Instagram](https://www.instagram.com/vibestudent.ai/) • [YouTube](https://www.youtube.com/@vibestudentai) • [GitHub](https://github.com/vibestudent)
+## 🌐 Connect
+[Instagram](https://www.instagram.com/vibestudent.ai/) • [Threads](https://www.threads.com/@vibestudent.ai) • [YouTube](https://www.youtube.com/@vibestudentai)
 
 ---
 
-## Motto
-I don’t code line by line — I **vibe with AI**.
+## 💬 Motto
+> I don’t code line by line — I **vibe with AI**.
