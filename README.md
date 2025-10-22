@@ -3,10 +3,6 @@
 > AI-first prototypes — fast, focused, and functional.  
 > Where terminal workflows meet agent-led builds.
 
-<p align="center">
-  <img src="https://github.com/vibestudent/vibecode-game/raw/main/docs/screenshots/screenshot-1.png" alt="VIBEcode screenshot" width="440" style="border-radius:10px; box-shadow:0 8px 24px rgba(0,0,0,0.12);">
-</p>
-
 ---
 
 ## 🧠 Quick Pitch
@@ -16,16 +12,27 @@ Instead of coding line by line, I **describe, iterate, and orchestrate** — usi
 ---
 
 ## 🎮 Featured Project — [VIBEcode](https://github.com/vibestudent/vibecode-game)
-**VIBEcode** is an **arcade-style coding game** where players match AI-generated snippets to their meanings.  
-It’s an experiment in **AI-assisted UI + logic design**, built from concept to polish through generative workflows.
 
-**Highlights**
-- 🖥️ Terminal-inspired UI with smooth animations  
-- ⚡ Streak-based scoring and adaptive difficulty  
-- 🔊 Dynamic audio + responsive layout  
-- 🤖 Fully AI-prototyped, human-refined  
+<p align="center">
+  <img src="https://github.com/vibestudent/vibecode-game/raw/main/docs/screenshots/screenshot-1.png" 
+       alt="VIBEcode screenshot" 
+       width="300" 
+       style="border-radius:12px; box-shadow:0 12px 32px rgba(0,0,0,0.15);">
+</p>
 
-👉 [Play or explore the code →](https://github.com/vibestudent/vibecode-game)
+### Overview
+**VIBEcode** is an **arcade-style coding game** where players match AI-generated code snippets with their meanings.  
+It’s a hands-on experiment in **AI-assisted UI + logic design**, prototyped with generative workflows and refined manually for polish.
+
+### Features
+- 🖥️ **Terminal-inspired UI** with smooth animations  
+- ⚡ **Streak-based scoring** and adaptive difficulty  
+- 🔊 **Dynamic audio** and responsive layout  
+- 🤖 **Fully AI-prototyped, human-refined**  
+
+<p align="center">
+  👉 [Play the game or explore the code →](https://github.com/vibestudent/vibecode-game)
+</p>
 
 ---
 
@@ -49,7 +56,7 @@ Step into my **AI-powered, cyberpunk-inspired portfolio** — a playground of ge
 **Highlights**  
 - ⚡ AI-assisted prototypes and lightning-fast iteration  
 - 🌗 Smooth dark/light mode with persistent themes  
-- 🎨 Neon cyan–purple cyberpunk aesthetic  
+- 🎨 Neon purple cyberpunk aesthetic  
 - 🧩 Interactive project cards  
 
 👉 **[Explore the code →](https://github.com/vibestudent/vibe-portfolio)**
