@@ -40,6 +40,22 @@ Each project focuses on **hands-on exploration** — testing how AI can collabor
 
 ---
 
+## 🪩 Portfolio
+
+Explore the **AI-powered portfolio** — a cyberpunk-inspired showcase of my projects, built with generative workflows and terminal-first design.
+
+> 🖥️ **Live Site:** [vibestudent.github.io/vibe-portfolio](https://vibestudent.github.io/vibe-portfolio)
+
+**Highlights**
+- ⚡ AI-assisted prototyping and rapid iteration  
+- 🌗 Dark/light mode with smooth theme persistence  
+- 🎨 Neon cyan–purple cyberpunk aesthetic  
+- 🧩 Interactive project cards and skill grid  
+
+👉 **[View the repository →](https://github.com/vibestudent/vibe-portfolio)**
+
+---
+
 ## ⚙️ Stack & Tools
 **Languages:** Java • C • C++ • Python • Bash  
 **Tools:** Neovim (LazyVim) • Ghostty • Zsh • Starship • Docker • GitHub Actions  
