@@ -30,9 +30,9 @@ It’s a hands-on experiment in **AI-assisted UI + logic design**, prototyped wi
 - 🔊 **Dynamic audio** and responsive layout  
 - 🤖 **Fully AI-prototyped, human-refined**  
 
-<p align="center">
-  👉 [Play the game or explore the code →](https://github.com/vibestudent/vibecode-game)
-</p>
+<div align="center">
+  👉 <a href="https://github.com/vibestudent/vibecode-game">Play the game or explore the code →</a>
+</div>
 
 ---
 
